@@ -1,0 +1,19 @@
+{
+  "name": "react-assessment",
+  "version": "1.0.0",
+  "description": "React Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NYCWebDevFellowship/React-Assessment.git"
+  },
+  "author": "Ariel Hyman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NYCWebDevFellowship/React-Assessment/issues"
+  },
+  "homepage": "https://github.com/NYCWebDevFellowship/React-Assessment#readme"
+}
