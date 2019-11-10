@@ -3,7 +3,7 @@ const webpack = require('webpack');
 const multi = require('multi-loader');
 
 module.exports = {
-  entry: './client/index.jsx',
+  entry: './client/index.js',
   mode: 'development',
   devtool: 'eval-source-map',
   output: {
