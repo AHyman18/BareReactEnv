@@ -1,7 +1,7 @@
 {
-  "name": "react-assessment",
+  "name": "Bare React Env",
   "version": "1.0.0",
-  "description": "React Assessment",
+  "description": "Env,
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot --inline --progress --colors --watch --content-base=./build",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NYCWebDevFellowship/React-Assessment.git"
+    "url": "https://github.com/AHyman18/BareReactEnv.git"
   },
-  "author": "Ariel Hyman",
+  "author": "AHyman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NYCWebDevFellowship/React-Assessment/issues"
+    "url": "https://github.com/AHyman18/BareReactEnv/issues"
   },
-  "homepage": "https://github.com/NYCWebDevFellowship/React-Assessment#readme",
+  "homepage": "https://github.com/AHyman18/BareReactEnv#readme",
   "devDependencies": {
     "@babel/cli": "^7.7.0",
     "@babel/core": "^7.7.2",
