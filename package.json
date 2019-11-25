@@ -1,7 +1,7 @@
 {
   "name": "Bare React Env",
   "version": "1.0.0",
-  "description": "Env,
+  "description": "Env",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot --inline --progress --colors --watch --content-base=./build",
